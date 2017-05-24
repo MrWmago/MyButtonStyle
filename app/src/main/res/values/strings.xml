@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyButtonStyle</string>
+    <string name="dianji">点击</string>
+    <string name="xuanze">选择</string>
 </resources>
